@@ -1,3 +1,3 @@
-# Atividade1-SI
+# Atividade1-SO
 
 Atividade Prática - PowerShell
